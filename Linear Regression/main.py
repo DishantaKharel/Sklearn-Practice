@@ -1,10 +1,7 @@
 from sklearn import datasets
 from sklearn import linear_model
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
 from matplotlib import pyplot as plt
-import numpy as np
-import pandas as pd
 
 
 
